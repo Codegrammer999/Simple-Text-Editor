@@ -1,0 +1,21 @@
+[
+   {
+        "theme": {
+            "light": {
+                "bg": "gray",
+                "text": "gray"
+            },
+            "dark": {
+                "bg": "gray",
+                "text": "gray"
+            }
+        },
+
+        "editor": {
+            "font": {
+                "size": "188",
+                "family": "roboto"
+            }
+        }
+   }
+]   
